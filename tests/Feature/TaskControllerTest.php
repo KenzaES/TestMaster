@@ -11,6 +11,8 @@ class TaskControllerTest extends TestCase
 {
     use RefreshDatabase;
 
+    //user variable
+
     private $user;
 
     protected function setUp(): void
